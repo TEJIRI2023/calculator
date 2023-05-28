@@ -1,0 +1,234 @@
+body{
+    margin: 0px;
+}
+.parent{    
+    width: 100%;
+    display: flex;
+    flex-direction: column;    
+    align-items: center;
+}
+.child{
+    width: 400px;
+    border-style: solid;
+    height: 160px;
+    display: flex;
+    flex-direction: column;      
+}
+.viewer{    
+    float: right;
+}
+.result{
+    float: right;
+}
+.child1{  
+    width: 400px;  
+    border-style: none;    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.gg{
+             
+}
+.clear{
+    width: 75px;
+    height: 75px;
+    font-size: 25px;
+    color: rgb(190, 128, 13);
+    background-color: rgb(255, 240, 192);
+    margin: 10px;
+    border-style: none;
+    border-radius: 10px;
+}
+.delete{
+    width: 75px;
+    height: 75px;
+    font-size: 25px;
+    color: rgb(190, 128, 13);
+    background-color: rgb(255, 240, 192);
+    margin: 10px;
+    border-style: none;
+    border-radius: 10px;
+}
+.remainder{
+    width: 75px;
+    height: 75px;
+    font-size: 25px;
+    color: rgb(190, 128, 13);
+    background-color: rgb(255, 240, 192);
+    margin: 10px;
+    border-style: none;
+    border-radius: 10px;
+}
+.divide{
+    width: 75px;
+    height: 75px;
+    font-size: 25px;
+    color: rgb(190, 128, 13);
+    background-color: rgb(255, 240, 192);
+    margin: 10px;
+    border-style: none;
+    border-radius: 10px;
+}
+.gg1{
+
+}
+.seven{
+    width: 75px;
+    height: 75px;
+    font-size: 25px;
+    color: black;
+    background-color: rgb(231, 231, 231);
+    margin: 10px;
+    border-style: none;
+    border-radius: 10px;
+}
+.eight{
+    width: 75px;
+    height: 75px;
+    font-size: 25px;
+    color: black;
+    background-color: rgb(231, 231, 231);
+    margin: 10px;
+    border-style: none;
+    border-radius: 10px;
+}
+.nine{
+    width: 75px;
+    height: 75px;
+    font-size: 25px;
+    color: black;
+    background-color: rgb(231, 231, 231);
+    margin: 10px;
+    border-style: none;
+    border-radius: 10px;
+}
+.multiply{
+    width: 75px;
+    height: 75px;
+    font-size: 25px;
+    color: rgb(190, 128, 13);
+    background-color: rgb(255, 240, 192);
+    margin: 10px;
+    border-style: none;
+    border-radius: 10px;
+}
+.gg2{
+
+}
+.four{
+    width: 75px;
+    height: 75px;
+    font-size: 25px;
+    color: black;
+    background-color: rgb(231, 231, 231);
+    margin: 10px;
+    border-style: none;
+    border-radius: 10px;
+}
+.five{
+    width: 75px;
+    height: 75px;
+    font-size: 25px;
+    color: black;
+    background-color: rgb(231, 231, 231);
+    margin: 10px;
+    border-style: none;
+    border-radius: 10px;
+}
+.six{
+    width: 75px;
+    height: 75px;
+    font-size: 25px;
+    color: black;
+    background-color: rgb(231, 231, 231);
+    margin: 10px;
+    border-style: none;
+    border-radius: 10px;
+}
+.add{
+    width: 75px;
+    height: 75px;
+    font-size: 25px;
+    color: rgb(190, 128, 13);
+    background-color: rgb(255, 240, 192);
+    margin: 10px;
+    border-style: none;
+    border-radius: 10px;
+}
+.gg3{
+    
+}
+.one{
+    width: 75px;
+    height: 75px;
+    font-size: 25px;
+    color: black;
+    background-color: rgb(231, 231, 231);
+    margin: 10px;
+    border-style: none;
+    border-radius: 10px;
+}
+.two{
+    width: 75px;
+    height: 75px;
+    font-size: 25px;
+    color: black;
+    background-color: rgb(231, 231, 231);
+    margin: 10px;
+    border-style: none;
+    border-radius: 10px;
+}
+.three{
+    width: 75px;
+    height: 75px;
+    font-size: 25px;
+    color: black;
+    background-color: rgb(231, 231, 231);
+    margin: 10px;
+    border-style: none;
+    border-radius: 10px;
+}
+.minus{
+    width: 75px;
+    height: 75px;
+    font-size: 25px;
+    color: rgb(190, 128, 13);
+    background-color: rgb(255, 240, 192);
+    margin: 10px;
+    border-style: none;
+    border-radius: 10px;
+}
+.gg4{
+    
+}
+.zero{
+    width: 170px;
+    height: 75px;
+    font-size: 25px;
+    color: black;
+    background-color: rgb(231, 231, 231);
+    margin: 10px;
+    border-style: none;
+    border-radius: 10px;
+}
+.point{
+    width: 75px;
+    height: 75px;
+    font-size: 25px;
+    color: black;
+    background-color: rgb(231, 231, 231);
+    margin: 10px;
+    border-style: none;
+    border-radius: 10px;
+}
+.equalsto{
+    width: 75px;
+    height: 75px;
+    font-size: 25px;
+    color: rgb(190, 128, 13);
+    background-color: rgb(255, 220, 106);
+    margin: 10px;
+    border-style: none;
+    border-radius: 10px;
+}
